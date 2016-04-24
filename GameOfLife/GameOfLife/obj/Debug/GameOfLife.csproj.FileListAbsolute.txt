@@ -1,6 +1,0 @@
-D:\Git\task08\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
-D:\Git\task08\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
-D:\Git\task08\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
-D:\Git\task08\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
-D:\Git\task08\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
-D:\Git\task08\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
